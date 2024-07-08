@@ -6,14 +6,11 @@
 In addition to my development skills, I bring valuable experience as a Junior IT Project Manager. I worked in an agile environment and collaborated closely with developers, designers, and other stakeholders. I led sprint meetings, ensuring project alignment and timely completion. One of my notable achievements was creating an API with TypeScript to automate order processing, significantly improving efficiency by saving hours of manual work each day. This blend of project management and technical skills has prepared me to contribute effectively to any front-end development team.</p>
 
 
-
 - 🔭 I’m currently working on a **Movie App** 🎬 using OmbdAPI.
 
 - 🌱 I’m currently learning 📚 **React** & **NextJs**
 
 - 📫 How to reach me **bilaal1sadiq@gmail.com**
-
-
 
 
 
