@@ -3,10 +3,7 @@
 
 <p>During the COVID lockdown🔐, I rekindled my passion for coding and decided to dive into front-end development. Through self-study, I have gained proficiency in JavaScript and TypeScript and am currently expanding my skills with React and Next.js. To put my knowledge to practical use, I am building a movie rating app that leverages my expertise in JavaScript, CSS, and APIs. This project has been an excellent opportunity to showcase my abilities and continue learning through hands-on experience.</p>
 
-
-- 🔭 I’m currently working on a **Movie App** 🎬 using OmbdAPI.
-
-- 🌱 I’m currently learning 📚 **React** & **NextJs**
+- 🌱 I’m currently learning 📚 **React**.
 
 - 📫 How to reach me **bilaal1sadiq@gmail.com**
 
